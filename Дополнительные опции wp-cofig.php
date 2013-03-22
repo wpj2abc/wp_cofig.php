@@ -1,4 +1,4 @@
-/Изменить паку языковой локализации WP.
+//Изменить паку языковой локализации WP.
 define('WPLANG', 'ru_RU');
 define('LANGDIR', 'mylanguagedirectory'); //Если языковой файл загружен не в папку languages .
 
